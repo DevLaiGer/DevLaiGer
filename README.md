@@ -83,8 +83,8 @@
             <br>Go
         </td>
         <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-            <br>Laravel
+            <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+            <br>Java
         </td>
         <td align="center" width="90">
             <img
