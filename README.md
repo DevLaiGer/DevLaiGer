@@ -1,7 +1,7 @@
 
 <p align="center">
     <img width="98%"
-        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=JackDev&reversal=false&section=header&animation=twinkling" />
+        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=DevLaiGer&reversal=false&section=header&animation=twinkling" />
 </p>
 
 <br />
